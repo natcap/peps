@@ -4,10 +4,11 @@ The archive of Enhancement Proposals for the Natural Capital Project's Science
 & Technology Platform.
 
 ## PEP index
+Format is: `[pep file name] - [Short human description] - [Complete | In Progress | Accepted | Rejected]`
 
-- **[pep-0010](https://github.com/natcap/peps/blob/main/pep-0010.md)** - Revising SDR Indicators - Complete
-- **[pep-0011](https://github.com/natcap/peps/blob/main/pep-0011.md)** - Deprecate the GLOBIO model - Complete
 - **[pep-0012](https://github.com/natcap/peps/blob/main/pep-0012.md)** - Supporting both D8 and MFD algorithms in InVEST routed models and tools - In Progress
+- **[pep-0011](https://github.com/natcap/peps/blob/main/pep-0011.md)** - Deprecate the GLOBIO model - Complete
+- **[pep-0010](https://github.com/natcap/peps/blob/main/pep-0010.md)** - Revising SDR Indicators - Complete
 
 ## Steps for archiving Google Doc PEPs
 1) Download google doc as docx
