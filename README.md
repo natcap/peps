@@ -14,8 +14,8 @@ Format is: `[pep file name] - [Short human description] - [Complete | In Progres
 ## Steps for archiving Google Doc PEPs
 1) Download google doc as docx
 2) Use `pandoc` to convert to md (comments not preserved in this step)
-3) Example usage:
-  `cat "D8_MFD routing algorithms PEP.docx" | pandoc -o "D8_MFD routing algorithms PEP.md" --from=docx --to=markdown`
+3) Example usage (converting from docx to github-flavored markdown):
+  `cat "D8_MFD routing algorithms PEP.docx" | pandoc -o "D8_MFD routing algorithms PEP.md" --from=docx --to=gfm`
 4) Manually edit links and images
 5) At the top of the markdown PEP add a hyperlink to the original Google Doc PEP using the phrase: "This PEP has been modified from the original PEP Google Doc"
 6) Commit and Push to repo
