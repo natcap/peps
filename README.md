@@ -1,15 +1,21 @@
 # PEPs: Platform Enhancement Proposals
 
 The archive of Enhancement Proposals for the Natural Capital Project's Science
-& Technology Platform.
+& Technology Platform. [Original PEP documents are typically drafted as
+Google Docs and can be found here](https://drive.google.com/drive/u/1/folders/1vM8NZEs8vsENKnTxVqzqc0bzmHeMWL85)
 
 ## PEP index
 Format is: `[pep file name] - [Short human description] - [Complete | In Progress | Accepted | Rejected]`
 
-- **[pep-0013](https://github.com/natcap/peps/blob/main/pep-0013.md)** - Add an InVEST Mental Health Model - In Progress
-- **[pep-0012](https://github.com/natcap/peps/blob/main/pep-0012.md)** - Supporting both D8 and MFD algorithms in InVEST routed models and tools - Complete
-- **[pep-0011](https://github.com/natcap/peps/blob/main/pep-0011.md)** - Deprecate the GLOBIO model - Complete
-- **[pep-0010](https://github.com/natcap/peps/blob/main/pep-0010.md)** - Revising SDR Indicators - Complete
+- **[pep-0010](https://github.com/natcap/peps/blob/main/pep-0010.md)** - Add an InVEST Stormwater Retention Model - Complete
+- **[pep-0011](https://github.com/natcap/peps/blob/main/pep-0011.md)** - Translating the InVEST UI - Complete
+- **[pep-0012](https://github.com/natcap/peps/blob/main/pep-0012.md)** - Add an InVEST Urban Nature Access Model - Complete
+- **[pep-0013](https://github.com/natcap/peps/blob/main/pep-0013.md)** - Revising SDR Indicators - Complete
+- **[pep-0014](https://github.com/natcap/peps/blob/main/pep-0014.md)** - Deprecate the Fisheries models - Complete
+- **[pep-0015](https://github.com/natcap/peps/blob/main/pep-0015.md)** - Deprecate the GLOBIO model - Complete
+- **[pep-0016](https://github.com/natcap/peps/blob/main/pep-0016.md)** - Supporting both D8 and MFD algorithms in InVEST routed models and tools - Complete
+- **[pep-0017](https://github.com/natcap/peps/blob/main/pep-0017.md)** - Add Urban Cooling Model Calibration - Rejected`
+- **[pep-0018](https://github.com/natcap/peps/blob/main/pep-0018.md)** - Add an InVEST Mental Health Model - Complete`
 
 ## Steps for archiving Google Doc PEPs
 1) Download google doc as docx
