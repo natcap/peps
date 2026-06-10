@@ -6,7 +6,7 @@ The archive of Enhancement Proposals for the Natural Capital Project's Science
 ## PEP index
 Format is: `[pep file name] - [Short human description] - [Complete | In Progress | Accepted | Rejected]`
 
-- **[pep-0013](https://github.com/natcap/peps/blob/main/pep-0013.md)** - Add an InVEST Mental Health Model - In Progress
+- **[pep-0018](https://github.com/natcap/peps/blob/main/pep-0018.md)** - Add an InVEST Mental Health Model - Complete
 - **[pep-0012](https://github.com/natcap/peps/blob/main/pep-0012.md)** - Supporting both D8 and MFD algorithms in InVEST routed models and tools - Complete
 - **[pep-0011](https://github.com/natcap/peps/blob/main/pep-0011.md)** - Deprecate the GLOBIO model - Complete
 - **[pep-0010](https://github.com/natcap/peps/blob/main/pep-0010.md)** - Revising SDR Indicators - Complete
