@@ -1,7 +1,8 @@
 # PEPs: Platform Enhancement Proposals
 
 The archive of Enhancement Proposals for the Natural Capital Project's Science
-& Technology Platform.
+& Technology Platform. [Original PEP documents are typically drafted as
+Google Docs and can be found here](https://drive.google.com/drive/u/1/folders/1vM8NZEs8vsENKnTxVqzqc0bzmHeMWL85)
 
 ## PEP index
 Format is: `[pep file name] - [Short human description] - [Complete | In Progress | Accepted | Rejected]`
